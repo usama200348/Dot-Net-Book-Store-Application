@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="w-100 d-flex flex-wrap gap-2">
+    @for (int i = 0; i <= 10; i++)
+    {
+        <div class="card mx-2 wb-2" style="width: 16rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Book title</h5>
+                <p class="card-text">Author : </p>
+                <p class="card-text">Price : </p>
+                <a href="#" class="btn btn-primary">Add To Cart</a>
+            </div>
+        </div>
+    }
+</div>
