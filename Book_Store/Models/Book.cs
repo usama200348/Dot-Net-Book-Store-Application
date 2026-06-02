@@ -11,6 +11,9 @@ namespace Book_Store.Models
         [Required]
         [MaxLength(40)]
         public string? BookName { get; set; }   
+        [Required]
+        [MaxLength(40)]
+        public string? AuthorName { get; set; }   
         public double Price { get; set; } = 0;
         public string? BookImage { get; set; }
         [Required]

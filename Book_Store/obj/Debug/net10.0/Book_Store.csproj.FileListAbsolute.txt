@@ -288,3 +288,4 @@ D:\Youtube Courses\Dot Net\Book_Store\Book_Store\obj\Debug\net10.0\Book_Store.ge
 D:\Youtube Courses\Dot Net\Book_Store\Book_Store\obj\Debug\net10.0\ref\Book_Store.dll
 D:\Youtube Courses\Dot Net\Book_Store\Book_Store\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\Youtube Courses\Dot Net\Book_Store\Book_Store\obj\Debug\net10.0\compressed\h2u2kkvhkm-{0}-evtxl8ohto-evtxl8ohto.gz
+D:\Youtube Courses\Dot Net\Book_Store\Book_Store\obj\Debug\net10.0\Book_Store.sourcelink.json
